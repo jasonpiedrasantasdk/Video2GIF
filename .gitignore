@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.python-version
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Generated media
+*.gif
+*.palette.png
+out/
+output/
+
+# Packaged artifacts
+*.zip
+*.tar.gz
